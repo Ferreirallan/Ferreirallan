@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Allan
   
 -💻 Student of **Systems Analysis and Development (ADS)**
+
 -🚀 Passionate about technology and web development  
+
 -📌 I have knowledge of **JavaScript, HTML and CSS*
 
 ## 🔧 Technologies and Tools
