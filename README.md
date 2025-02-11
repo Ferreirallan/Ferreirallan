@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Allan
   
-- Student of **Systems Analysis and Development (ADS)**
+- Student of **technology**
 
 - Open to work
 
