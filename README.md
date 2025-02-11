@@ -1,6 +1,8 @@
 ## 👋 Hi, I’m Allan
 
-˚ Student of **technology**
+˚ Student of **Technology**
+  ▪ I dedicate myself every day to deepening my knowledge while searching for the path I want to follow.
+  ▪ Sou dedicado, ambicioso e sempre quero aprender coisas novas, além de me aprofundar nas que já possuo conhecimento.  
 
 ✍️ *"Technology moves the world."* – Steve Jobs
 
