@@ -22,4 +22,4 @@ al.portoferreira@gmail.com
 ---
 ✍️ *"Technology moves the world."* – Steve Jobs
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c)](https://skillicons.dev)
