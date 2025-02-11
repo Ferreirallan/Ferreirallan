@@ -7,8 +7,7 @@
 ##  Technologies and Tools
 -  Front-end: HTML5, CSS3, JavaScript  
 -  Studying frameworks and libraries such as React and Bootstrap  
--  Versioning: Git & GitHub  
-
+ 
 ##  Constantly learning!
 Currently, I'm improving my skills in **JavaScript** and studying **front-end frameworks** to develop modern and responsive interfaces.
 
@@ -18,5 +17,5 @@ al.portoferreira@gmail.com
 ---
 ✍️ *"Technology moves the world."* – Steve Jobs
 
-## Habilidades
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c)](https://skillicons.dev)
