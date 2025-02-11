@@ -1,9 +1,6 @@
 ## 👋 Hi, I’m Allan
   
-。 Student of **technology**
-
-。 Open to work
-
+˚ Student of **technology**
 ---
 ✍️ *"Technology moves the world."* – Steve Jobs
 
