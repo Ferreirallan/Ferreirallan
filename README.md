@@ -4,7 +4,7 @@
 
 -🚀 Passionate about technology and web development  
 
--📌 I have knowledge of **JavaScript, HTML and CSS*
+-📌 I have knowledge of **JavaScript, HTML, CSS and C*
 
 -👀 Open to work
 
