@@ -12,7 +12,7 @@
 ##  Constantly learning!
 Currently, I'm improving my skills in **JavaScript** and studying **front-end frameworks** to develop modern and responsive interfaces.
 
-## 📫 How to contact me?
+##  How to contact me?
 al.portoferreira@gmail.com
 
 ---
