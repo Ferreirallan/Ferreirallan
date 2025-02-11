@@ -1,14 +1,10 @@
 ## 👋 Hi, I’m Allan
   
- Student of **technology**
+°Student of **technology**
 
- Open to work
+°Open to work
   
- I intend to learn and enter the technology industry, grow as a professional and contribute to innovative projects
-
-##  How to contact me?
-al.portoferreira@gmail.com
-
+°I intend to learn and enter the technology industry, grow as a professional and contribute to innovative projects
 ---
 ✍️ *"Technology moves the world."* – Steve Jobs
 
