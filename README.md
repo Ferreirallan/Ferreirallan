@@ -1,15 +1,15 @@
 - 👋 Hi, I’m Allan
   
--💻 Student of **Systems Analysis and Development (ADS)**
+- Student of **Systems Analysis and Development (ADS)**
 
--👀 Open to work
+- Open to work
 
-## 🔧 Technologies and Tools
-- 🎨 Front-end: HTML5, CSS3, JavaScript  
-- ⚙️ Studying frameworks and libraries such as React and Bootstrap  
-- 🛠️ Versioning: Git & GitHub  
+##  Technologies and Tools
+-  Front-end: HTML5, CSS3, JavaScript  
+-  Studying frameworks and libraries such as React and Bootstrap  
+-  Versioning: Git & GitHub  
 
-## 📚 Constantly learning!
+##  Constantly learning!
 Currently, I'm improving my skills in **JavaScript** and studying **front-end frameworks** to develop modern and responsive interfaces.
 
 ## 📫 How to contact me?
