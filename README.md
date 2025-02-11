@@ -2,10 +2,6 @@
   
 -💻 Student of **Systems Analysis and Development (ADS)**
 
--🚀 Passionate about technology and web development  
-
--📌 I have knowledge of *JavaScript, HTML, CSS and C*
-
 -👀 Open to work
 
 ## 🔧 Technologies and Tools
@@ -21,5 +17,6 @@ al.portoferreira@gmail.com
 
 ---
 ✍️ *"Technology moves the world."* – Steve Jobs
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c)](https://skillicons.dev)
