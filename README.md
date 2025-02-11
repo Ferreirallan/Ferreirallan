@@ -1,15 +1,10 @@
 ## 👋 Hi, I’m Allan
   
-- Student of **technology**
+ Student of **technology**
 
-- Open to work
-
-##  Technologies and Tools
--  Front-end: HTML5, CSS3, JavaScript  
--  Studying frameworks and libraries such as React and Bootstrap  
- 
-##  Constantly learning!
-Currently, I'm improving my skills in **JavaScript** and studying **front-end frameworks** to develop modern and responsive interfaces.
+ Open to work
+  
+ I intend to learn and enter the technology industry, grow as a professional and contribute to innovative projects
 
 ##  How to contact me?
 al.portoferreira@gmail.com
