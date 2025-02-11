@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Allan
+## 👋 Hi, I’m Allan
   
 - Student of **Systems Analysis and Development (ADS)**
 
