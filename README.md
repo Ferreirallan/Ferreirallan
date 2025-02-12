@@ -2,7 +2,7 @@
 
 ▪ Student of **Technology**
 
-    ▪ I dedicate myself every day to deepening my knowledge while searching for the path I want to follow.
+ ▪ My goal is to develop creative and efficient digital solutions.
   
 
 ✍️ *"Technology moves the world."* – Steve Jobs
