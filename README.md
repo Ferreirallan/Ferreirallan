@@ -8,5 +8,5 @@
 ✍️ *"Technology moves the world."* – Steve Jobs
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,c,powerbi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,c)](https://skillicons.dev)
 
