@@ -7,6 +7,8 @@
 
 ✍️ *"Technology moves the world."* – Steve Jobs
 
+🔗 Check out my portfolio: https://lnkd.in/dNGgSgSt
+
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,c)](https://skillicons.dev)
 
