@@ -34,6 +34,9 @@ With projects focused on web applications, always trying to integrate the best d
   
   
 <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/html-5--v1.png" alt="html-5--v1"/>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width="40" />
+          
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40">
