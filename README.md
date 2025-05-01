@@ -17,9 +17,9 @@ With projects focused on web applications, always trying to integrate the best d
 
 #### 📫 **Let's Connect:**  
 
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/allanportoferreira/)
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/allanportoferreira/
 
-- 📧 **My Portfólio:** [https://ornate-sable-dfb6a1.netlify.app/#about)
+- 📧 **My Portfólio:** https://ornate-sable-dfb6a1.netlify.app/#about
 
 ---
 
@@ -31,7 +31,8 @@ With projects focused on web applications, always trying to integrate the best d
 <br/>
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40">
+  
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40">
