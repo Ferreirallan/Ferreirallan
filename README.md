@@ -32,10 +32,7 @@ With projects focused on web applications, always trying to integrate the best d
 
 <div style="display: flex; gap: 10px;">
   
-  
-
-          
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
+  (https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40">
