@@ -19,7 +19,7 @@ With projects focused on web applications, always trying to integrate the best d
 
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/allanportoferreira/
 
-- 📧 **My Portfólio:** https://ornate-sable-dfb6a1.netlify.app/#about
+- 📧 **My Portfólio:** https://ornate-sable-dfb6a1.netlify.app/
 
 ---
 
