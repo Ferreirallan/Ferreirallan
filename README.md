@@ -32,16 +32,7 @@ With projects focused on web applications, always trying to integrate the best d
 
 <div style="display: flex; gap: 10px;">
   
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,c,css" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40">
-  <img src="https://reactnative.dev/img/tiny_logo.png" width="40">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40">
-  <img src="https://static-00.iconduck.com/assets.00/fastify-icon-512x329-1ypuqoar.png" width="40">
-  
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,c" />
 </div>
 
 <br/>
