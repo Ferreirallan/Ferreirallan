@@ -3,7 +3,7 @@ Hey there! I'm Allan Porto
 
 ## 👨‍💻 About Me
 
-> Front End Developer 
+> Developer 
 
 **Professional in training in the area of ​Information Technology**, with a solid foundation in software development and systems analysis. Committed to continuous learning and passionate about solving real-world problems through technology. Experience in academic and personal projects that demonstrate adaptability, attention to detail and the ability to work as part of a team.
 
